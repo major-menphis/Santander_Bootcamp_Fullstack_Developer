@@ -12,7 +12,7 @@ As pastas nomeadas representam cada módulo do bootcamp onde foi executado algum
 
 
   - Módulo II - HTML5/CSS3/JS
-    - Curso: Introdução a criação de websites com HTML5 e CSS3
+    - Curso: Introdução a criação de websites com HTML5 e CSS3 :heavy_check_mark:
     - Curso: Posicionando elementos com Flexbox em CSS
     - Desafio de projeto: Recriando a página inicial do Instagram
     - Curso: Introdução ao JavaScript
