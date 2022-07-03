@@ -1,0 +1,55 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100vh;
+    padding: 2%;
+}
+
+.todo-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    height: auto;
+    border: 1px solid lightgrey;
+    padding: 2%;
+}
+
+.task-form {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.task-form button {
+    margin-left: 1%;
+}
+
+.tasks-div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 300px;
+    margin: 3%;
+}
+
+.tasks-div li {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: baseline;
+    list-style-type: none;
+    margin: 2%;
+}
+
+.check-list:checked + span {
+    text-decoration: line-through
+}
