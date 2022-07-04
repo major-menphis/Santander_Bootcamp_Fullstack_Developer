@@ -15,8 +15,8 @@ As pastas nomeadas representam cada módulo do bootcamp onde foi executado algum
     - Curso: Introdução a criação de websites com HTML5 e CSS3 :heavy_check_mark:
     - Curso: Posicionando elementos com Flexbox em CSS :heavy_check_mark:
     - Desafio de projeto: Recriando a página inicial do Instagram :heavy_check_mark:
-    - Curso: Introdução ao JavaScript
-    - Curso: Sintaxe e Operadores
+    - Curso: Introdução ao JavaScript :heavy_check_mark:
+    - Curso: Sintaxe e Operadores :heavy_check_mark:
     - Curso: Variáveis e Tipos
     - Curso: Funções
     - Curso: Coleções
